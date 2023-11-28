@@ -31,11 +31,6 @@ body {
     padding: 10px 10px 10px 0px;
 }
 
-.header-logo {
-    width: 15px;
-    height: auto;
-}
-
 /*Nav rules*/
 .nav-links {
     display: flex;
@@ -210,7 +205,7 @@ section {
     align-content: end;
 }
 
-.heading h2 {
+.heading h3 {
     background-color: rgba(164, 195, 178, 0.82);
     padding: 15px;
     height: 22px;
@@ -281,7 +276,7 @@ footer {
     height: 100px;
 }
 
-footer h3 {
+footer h4 {
     font-size: 16px;
     font-weight: 200;
 }
